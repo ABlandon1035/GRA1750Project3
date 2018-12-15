@@ -1,0 +1,43 @@
+div{
+	width: 650px;
+	background-color: #7C8A85;
+	margin: 0 auto; 
+}
+
+#meowmeow{
+	width: 38%;
+	position: relative;
+	left: 200px
+
+}
+
+#meowmix{
+	width: 35%;
+	position: relative;
+	left: 200px; 
+
+}
+
+#meowsea{
+	width: 35%;
+	position: relative;
+	left: 200px;
+}
+
+#meowtee{
+	width: 35%;
+	position: relative;
+	left: 200px;
+}
+.titles{
+	color: white;
+	font-family: Futura, Sans-Serif;
+	font-size: 1.5em;
+}
+
+strong em{
+	color: #C6F4E3
+}
+a {
+	color: yellow
+}
